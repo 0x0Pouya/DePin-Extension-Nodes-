@@ -60,6 +60,23 @@ All the projects mentioned here are in their development stages. Please **Do You
 
 ---
 
+## DePiNed
+
+### Overview:
+- **Potential**: Trending project on Ai and Rendering.
+- **Resource Usage**: Light and resource-efficient.
+
+### How to Get Started:
+1. **Register**: [DePiNed Registration](https://app.depined.org/onboarding)    
+2. **Invite Code (if required)**: `EMShtzNsngJj`  
+4. **Boost Rewards**: Soon.. 
+
+**"Note"** To activate your Referral, you need to run the node fo 10 hours.
+
+### Official Links:
+- **Website**: [https://teneo.pro/](https://teneo.pro/)
+
+---
 ## Final Notes:
 - These projects provide an excellent opportunity to monetize unused resources, but remember to evaluate their legitimacy and functionality independently.
 - If you have questions, connect with the respective communities on their official platforms for support and updates.
