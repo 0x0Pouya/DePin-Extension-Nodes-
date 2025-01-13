@@ -51,8 +51,9 @@ All the projects mentioned here are in their development stages. Please **Do You
 
 ### How to Get Started:
 1. **Register**: [DeSpeed Registration](https://app.despeed.net/register?ref=mmxnZmJ8mdy5)  
-2. **Invite Code (if required)**: `mmxnZmJ8mdy5`  
-3. **Boost Rewards**:  
+2. **Invite Code (if required)**: `mmxnZmJ8mdy5`
+3. **Download the extension from your dashboard, and simply connect.
+4. **Boost Rewards**:  
    - Complete daily claims and participate in quests on the dashboard for more points.
 
 ### Official Links:
@@ -68,7 +69,8 @@ All the projects mentioned here are in their development stages. Please **Do You
 
 ### How to Get Started:
 1. **Register**: [DePiNed Registration](https://app.depined.org/onboarding)    
-2. **Invite Code (if required)**: `EMShtzNsngJj`  
+2. **Invite Code (if required)**: `EMShtzNsngJj`
+3. **Download The extension from your dashboard, and simply connect.
 4. **Boost Rewards**: Soon.. 
 
 **"Note"** To activate your Referral, you need to run the node fo 10 hours.
