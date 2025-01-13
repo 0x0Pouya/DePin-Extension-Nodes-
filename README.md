@@ -76,7 +76,7 @@ All the projects mentioned here are in their development stages. Please **Do You
 **"Note"** To activate your Referral, you need to run the node fo 10 hours.
 
 ### Official Links:
-- **Website**: [(https://depined.org/)](https://depined.org/)
+- **Website**: [https://depined.org/](https://depined.org/)
 
 ---
 ## Final Notes:
