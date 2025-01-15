@@ -73,7 +73,7 @@ All the projects mentioned here are in their development stages. Please **Do You
 3. **Download The extension from your dashboard, and simply connect.
 4. **Boost Rewards**: Soon.. 
 
-**"Note"** To activate your Referral, you need to run the node fo 10 hours.
+**"Note"** To activate your Referral, you need to run the node fo 25 hours.
 
 ### Official Links:
 - **Website**: [https://depined.org/](https://depined.org/)
