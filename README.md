@@ -98,7 +98,6 @@ All the projects mentioned here are in their development stages. Please **Do You
 - **Website**: [https://www.3dos.io]
 
 ---
-![Uploading image.png…]()
 
 ## Final Notes:
 - These projects provide an excellent opportunity to monetize unused resources, but remember to evaluate their legitimacy and functionality independently.
