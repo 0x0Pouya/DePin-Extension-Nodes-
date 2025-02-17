@@ -79,6 +79,27 @@ All the projects mentioned here are in their development stages. Please **Do You
 - **Website**: [https://depined.org/](https://depined.org/)
 
 ---
+
+---
+
+## 3DOS
+
+### Overview:
+- **Resource Usage**: Light and resource-efficient.
+
+### How to Get Started:
+1. **Register**: https://dashboard.3dos.ioregister?ref_code=57515f  
+2. **Invite Code (if required)**: `7515f`
+3. **Download The extension from https://chromewebstore.google.com/detail/3dos-network/lpindahibbkakkdjifonckbhopdoaooe
+
+**"Note"** Since it’s in early phase the website has a bit bugs.
+
+### Official Links:
+- **Website**: [https://www.3dos.io]
+
+---
+![Uploading image.png…]()
+
 ## Final Notes:
 - These projects provide an excellent opportunity to monetize unused resources, but remember to evaluate their legitimacy and functionality independently.
 - If you have questions, connect with the respective communities on their official platforms for support and updates.
