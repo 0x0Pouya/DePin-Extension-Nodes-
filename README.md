@@ -101,4 +101,4 @@ All the projects mentioned here are in their development stages. Please **Do You
 
 ## Final Notes:
 - These projects provide an excellent opportunity to monetize unused resources, but remember to evaluate their legitimacy and functionality independently.
-- If you have questions, connect with the respective communities on their official platforms for support and updates.
+- If you have questions, connect with the official platforms for support and updates.
